@@ -239,3 +239,6 @@ This repository serves as the official landing page for Call of Atlantis. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Call of Atlantis today!**
+
+---
+**Last updated:** 2026-09-08 08:46:19 UTC
