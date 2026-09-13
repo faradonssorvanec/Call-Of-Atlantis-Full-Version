@@ -241,4 +241,4 @@ This repository serves as the official landing page for Call of Atlantis. The so
 **Get the most recent version of Call of Atlantis today!**
 
 ---
-**Last updated:** 2026-09-12 22:06:17 UTC
+**Last updated:** 2026-09-13 00:44:55 UTC
